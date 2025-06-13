@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
