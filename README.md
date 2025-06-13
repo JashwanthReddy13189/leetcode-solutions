@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0075-sort-colors) |
+| [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
