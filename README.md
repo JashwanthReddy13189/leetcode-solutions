@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
