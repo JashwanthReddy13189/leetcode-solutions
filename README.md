@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
