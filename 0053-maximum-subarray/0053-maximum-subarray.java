@@ -9,7 +9,7 @@ class Solution {
             if (sum < 0)
                 sum = 0;
             sum += nums[i];
-            max = Math.max(max, sum);
+            max = (sum>max) ?sum:max;
         }
         return max;
     }
