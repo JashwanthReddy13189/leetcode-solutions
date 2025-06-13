@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
