@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
