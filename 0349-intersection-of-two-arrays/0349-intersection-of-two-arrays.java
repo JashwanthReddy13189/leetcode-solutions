@@ -2,7 +2,7 @@ class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         // Brute Force Approach
         // Using Sets
-        /*Set<Integer> set1 = new HashSet<>();
+        Set<Integer> set1 = new HashSet<>();
         Set<Integer> resultSet = new HashSet<>();
         for (int num : nums1) {
             set1.add(num);
@@ -12,10 +12,10 @@ class Solution {
                 resultSet.add(num);
             }
         }
-        return resultSet.stream().mapToInt(Integer::intValue).toArray();*/
+        return resultSet.stream().mapToInt(Integer::intValue).toArray();
 
-        // Optimal approach
-        Arrays.sort(nums1);
+        // Using two pointers
+        /*Arrays.sort(nums1);
         Arrays.sort(nums2);
         List<Integer> result = new ArrayList<>();
         int i = 0, j = 0;
@@ -33,6 +33,6 @@ class Solution {
                 j++;
             }
         }
-        return result.stream().mapToInt(Integer::intValue).toArray();
+        return result.stream().mapToInt(Integer::intValue).toArray();*/
     }
 }
