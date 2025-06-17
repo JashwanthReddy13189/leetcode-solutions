@@ -3,16 +3,21 @@ class Solution {
         // Brute Force Approach
         // Using Sets
         Set<Integer> set1 = new HashSet<>();
-        Set<Integer> resultSet = new HashSet<>();
+        Set<Integer> set2 = new HashSet<>();
+        List<Integer> result = new ArrayList<>();
         for (int num : nums1) {
             set1.add(num);
         }
         for (int num : nums2) {
-            if (set1.contains(num)) {
-                resultSet.add(num);
+            if (set1.contains(num) && !set2.contains(num)) {
+                result.add(num);
+                set2.add(num);
             }
         }
-        return resultSet.stream().mapToInt(Integer::intValue).toArray();
+        int[] res = new int[result.size()];
+        for(int i=0;i<res.length;i++) res[i]=result.get(i);
+        return res;
+        //return resultSet.stream().mapToInt(Integer::intValue).toArray();
 
         // Using two pointers
         /*Arrays.sort(nums1);
