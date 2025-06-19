@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -150,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
