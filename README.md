@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
