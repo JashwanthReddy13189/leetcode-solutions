@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JashwanthReddy13189/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
